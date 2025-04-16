@@ -85,8 +85,8 @@ Final star schema tables will be written back to your RDS instance under the `cl
 
 ## Author
 
-Pratyush Sahay
-email: pratyush.310899@gmail.com 
+- Pratyush Sahay
+- email: pratyush(dot)310899@gmail(dot)com 
 
 
 
